@@ -6282,6 +6282,9 @@ unidivers.fr##+js(no-xhr-if, googlesyndication)
 vidembed.me##+js(set, console.clear, undefined)
 moviepl.xyz##+js(nostif, devtoolIsOpening, 100)
 
+! https://github.com/uBlockOrigin/uAssets/issues/13500
+vidsrc.xyz##+js(set, devtoolIsOpening, undefined)
+
 ! https://azm.to/movie/40-year-old-virgins private mode detection
 unlimitedfiles.xyz##+js(acis, console.log, document.referer)
 
